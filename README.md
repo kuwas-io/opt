@@ -1,0 +1,2 @@
+# opt
+opt » cores » go
